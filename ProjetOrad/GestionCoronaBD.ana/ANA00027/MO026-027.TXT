@@ -1,0 +1,6 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+Utilisateur		TAR	434	nouvelle taille enregistrement : 434
+Utilisateur	Departement	RUB+		Departement est une nouvelle rubrique
+Patient		TAR	497	nouvelle taille enregistrement : 497
+Patient	IdPavillon	RUB+		IdPavillon est une nouvelle clé
+Patient	Statut	RUB+		Statut est une nouvelle rubrique

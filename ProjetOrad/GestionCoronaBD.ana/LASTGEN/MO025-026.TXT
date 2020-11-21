@@ -1,0 +1,7 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Utilisateur		TAR	383	nouvelle taille enregistrement : 383
+Utilisateur	Sexe	RUB+		Sexe est une nouvelle rubrique
+Utilisateur	Role	RUB+		Role est une nouvelle rubrique
+Utilisateur	Specialite	RUB+		Specialite est une nouvelle rubrique
+Utilisateur	DroitAccederLogc	RUB+		DroitAccederLogc est une nouvelle rubrique
+Utilisateur	AutresDroits	RUB+		AutresDroits est une nouvelle rubrique

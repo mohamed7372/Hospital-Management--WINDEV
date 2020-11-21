@@ -1,0 +1,13 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=2	;Analysis GUID
+LOCALIZATION_UTF8=9956CFFB908D4D738EBDB5BDC05F3C97	Utilisateur	E:\windev project\ProjetOrad\Exe\Utilisateur.fic
+LOCALIZATION_UTF8=75F70FA3E40D4A1993E739BFA9683F3F	Patient	E:\windev project\ProjetOrad\Exe\Patient.fic
+LOCALIZATION_UTF8=791082CA47C6449D81E23E6E80EB0AAA	Ordonnance	E:\windev project\ProjetOrad\Exe\Ordonnance.fic
+LOCALIZATION_UTF8=C11166B596D74FA3814BDEB5BA5A23D9	AnalyseType	E:\windev project\ProjetOrad\Exe\AnalyseType.fic
+LOCALIZATION_UTF8=5BD33C08F4A14FD5A97038231D8F5D37	Lit	E:\windev project\ProjetOrad\Exe\Lit.fic
+LOCALIZATION_UTF8=C090530C6F6D47B2BA1D49B8CACBCDB0	Analyse	E:\windev project\ProjetOrad\Exe\Analyse.fic
+LOCALIZATION_UTF8=59CD7B172C654C2295E3EF39F100F1E8	Ambulance	E:\windev project\ProjetOrad\Exe\Ambulance.fic
+LOCALIZATION_UTF8=461721111EAA4FAF94AD65EFE9E2496A	Diagnostic	E:\windev project\ProjetOrad\Exe\Diagnostic.fic
+LOCALIZATION_UTF8=7F50C28D8C4346FBA5FED6F7E96202F8	Material	E:\windev project\ProjetOrad\Exe\Material.fic
+LOCALIZATION_UTF8=4F0969569A5348E5BBF16F7177CA73A0	Traitement	E:\windev project\ProjetOrad\Exe\Traitement.fic

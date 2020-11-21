@@ -1,0 +1,4 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Ordonnance		TAR	743	nouvelle taille enregistrement : 743
+Ordonnance	IdDocteur	RUB+		IdDocteur est une nouvelle clé
+Traitement		NFI		nouveau fichier

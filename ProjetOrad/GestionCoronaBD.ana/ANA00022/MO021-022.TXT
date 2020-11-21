@@ -1,0 +1,7 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Analyse		TAR	36	nouvelle taille enregistrement : 36
+Analyse		IDE-*		fichier sans identifiant
+Analyse	IDAnalyseType	NNR	Type	ATTENTION : la clé Type a pour nouveau nom IDAnalyseType
+Analyse	IDAnalyseType	CLEU*		la rubrique IDAnalyseType est maintenant une clé
+Analyse	IDAnalyseType	CNW	Entier sur 8 octets$Chaîne	la rubrique IDAnalyseType a pour nouveau type Entier sur 8 octets
+Analyse	IDAnalyse	CNW	Entier sur 4 octets$Identifiant automatique (8 octets)	la rubrique IDAnalyse a pour nouveau type Entier sur 4 octets

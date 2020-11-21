@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Patient		TAR	446	nouvelle taille enregistrement : 446
+Patient	Covid_19	RUB+		Covid_19 est une nouvelle rubrique
+Patient	DateArrive	RUB+		DateArrive est une nouvelle rubrique

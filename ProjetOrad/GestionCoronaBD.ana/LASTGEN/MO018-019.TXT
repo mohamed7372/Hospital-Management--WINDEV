@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Ordonnance		TAR	738	nouvelle taille enregistrement : 738
+Ordonnance	Nom	RUB-		la rubrique Nom est supprimée
+Ordonnance	Prenom	RUB-		la rubrique Prenom est supprimée

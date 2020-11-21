@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Utilisateur		TAR	253	nouvelle taille enregistrement : 253
+Utilisateur	NomUtilisateur	RUB+		NomUtilisateur est une nouvelle rubrique

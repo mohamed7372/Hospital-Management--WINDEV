@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Patient		IDE-*		fichier sans identifiant
+Patient	IDPatient	NNR	IDPatient_ord	ATTENTION : la rubrique IDPatient_ord a pour nouveau nom IDPatient
+Patient	IDPatient	CLE-*		la rubrique IDPatient n'est plus une clé
+Patient	IDPatient	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDPatient a pour nouveau type Entier sur 8 octets

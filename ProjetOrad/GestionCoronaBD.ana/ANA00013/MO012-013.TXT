@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Ordonnance		TAR	805	nouvelle taille enregistrement : 805
+Ordonnance	Heure	RUB+		Heure est une nouvelle rubrique

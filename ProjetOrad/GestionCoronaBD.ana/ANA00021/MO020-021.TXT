@@ -1,0 +1,5 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Analyse		TAR	83	nouvelle taille enregistrement : 83
+Analyse	IDPatient	CLEN*		la rubrique IDPatient est maintenant une clé
+Analyse	Nom	RUB-		la rubrique Nom est supprimée
+Analyse	Prenom	RUB-		la rubrique Prenom est supprimée

@@ -1,0 +1,2 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Ambulance	adressPatientDem	NNR	adress	ATTENTION : la rubrique adress a pour nouveau nom adressPatientDem

@@ -1,0 +1,4 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Ordonnance		TAR	801	nouvelle taille enregistrement : 801
+Ordonnance	IDPatient	CLEN*		la rubrique IDPatient est maintenant une clé
+Ordonnance	IDPatient	CNW	Entier sur 4 octets$Entier sur 8 octets	la rubrique IDPatient a pour nouveau type Entier sur 4 octets
